@@ -6,7 +6,7 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido utilizando apenas Rea
 
 ## Índice
 
-- [Funcionalidades](#funcionalidades:)
+- [Funcionalidades](#funcionalidades)
 - [Terminal](#terminal)
 - [Dependências](#dependências)
 - [Extensões do VsCode ](#extensões-do-vscode)
