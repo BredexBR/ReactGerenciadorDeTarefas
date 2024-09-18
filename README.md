@@ -1,6 +1,8 @@
 # Gerenciador De Tarefas
 
-Este projeto é um **Gerenciador de Tarefas** desenvolvido utilizando apenas React. A aplicação permite que você organize e gerencie as tarefas que precisa realizar no seu dia a dia de maneira prática e intuitiva. <br>
+Este projeto é um **Gerenciador de Tarefas** desenvolvido utilizando apenas React. A aplicação permite que você organize e gerencie as tarefas que precisa realizar no seu dia a dia de maneira prática e intuitiva.
+
+- Caso queira ver o projeto funcionando acesse [aqui.](https://react-gerenciador-de-tarefas.vercel.app/)<br>
 
 ![Gerenciador de Tarefas](imgs/image1.png)
 
@@ -14,6 +16,7 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido utilizando apenas Rea
 ## Funcionalidades
 
 - Adicionar, editar e remover tarefas.
+- Marcar tarefas como concluídas.
 - Interface simples e responsiva para facilitar o uso em dispositivos móveis e desktop. <br>
 
 Esse projeto tem como objetivo melhorar a produtividade, ajudando a acompanhar todas as tarefas importantes de forma clara e objetiva. <br>
