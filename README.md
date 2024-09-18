@@ -6,7 +6,7 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido utilizando apenas Rea
 
 ## Índice
 
-- [Funcionalidades:](#funcionalidades:)
+- [Funcionalidades](#funcionalidades:)
 - [Terminal](#terminal)
 - [Dependências](#dependências)
 - [Extensões do VsCode ](#extensões-do-vscode)
@@ -77,7 +77,7 @@ Esse projeto tem como objetivo melhorar a produtividade, ajudando a acompanhar t
 
 - Para gerar a pasta dist com a aplicação final rode no terminal::
   ```bash
-    npm run build
+  npm run build
   ```
 
 ## Dependências
